@@ -21,7 +21,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Nguonc\\Crawler\\nguoncCrawler\\nguoncCrawlerServiceProvider"
+                "Nguonc\\Crawler\\nguoncCrawler\\NguoncCrawlerServiceProvider"
             ]
         }
     },
